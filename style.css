@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+background-image: url(./img/girl-1990347.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+min-height: 550px;
+
+}
+::placeholder{
+    text-align: center;
+}
+
+.ad{
+   
+    
+overflow: hidden;
+}
+
