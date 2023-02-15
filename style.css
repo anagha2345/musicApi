@@ -7,7 +7,9 @@ body{
 background-image: url(./img/girl-1990347.jpg);
 background-size: cover;
 background-repeat: no-repeat;
-min-height: 550px;
+height: 800px;
+margin: 0!important;
+
 
 }
 ::placeholder{
@@ -19,4 +21,22 @@ min-height: 550px;
     
 overflow: hidden;
 }
-
+.hd{
+    font-family: 'Limelight', cursive;
+    font-weight: 300;
+    color: rgb(109, 4, 27);
+    
+    
+}
+/* audio::-webkit-media-controls-play-button, */
+ audio::-webkit-media-controls-panel {
+ background-color: #ffb7d922;
+ color: #3ab8ed;
+ 
+ }
+ span{
+    color: black;
+ }
+h4{
+    font-family: 'Limelight', cursive;
+}
